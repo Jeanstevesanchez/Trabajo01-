@@ -1,16 +1,19 @@
 # trabajo_01
 
-A new Flutter project.
+Capturas de pantalla de la aplicacion.
 
-## Getting Started
+## Captura 1
 
-This project is a starting point for a Flutter application.
+![value samples - dark](https://github.com/Jeanstevesanchez/img/blob/main/Captura1.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+## Captura 2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![value samples - dark](https://github.com/Jeanstevesanchez/img/blob/main/Captura2.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Captura 3
+
+![value samples - dark](https://github.com/Jeanstevesanchez/img/blob/main/Captura3.PNG)
+
+## Captura 4
+
+![value samples - dark](https://github.com/Jeanstevesanchez/img/blob/main/Captura4.PNG)
